@@ -1,6 +1,7 @@
 # Rappi Availability Dashboard
 
 Dashboard interactivo en Streamlit para monitorear la disponibilidad de tiendas y consultar los datos con un asistente IA (Gemini + LangChain).
+URL: https://rappi-dashboard-btz3.onrender.com
 
 ## Tabla de contenidos
 

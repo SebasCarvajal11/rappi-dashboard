@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling / local caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local raw files not needed in deploy
+Archivo/
+data/
+*.zip
